@@ -6,6 +6,6 @@ inhibit_all_warnings!
 
 target 'MHVideoPhotoGallery' do
     pod 'SDWebImage'
-    pod 'TTTAttributedLabel', '1.13.3'
+    pod 'TTTAttributedLabel'
     pod 'Masonry'
 end
